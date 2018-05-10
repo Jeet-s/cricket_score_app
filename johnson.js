@@ -1,0 +1,10 @@
+r=document.getElementById("run");
+r.innerHTML=squad[24][1];
+r=document.getElementById("avg");
+r.innerHTML=squad[24][4];
+r=document.getElementById("sr");
+r.innerHTML=squad[24][5];
+r=document.getElementById("wkt");
+r.innerHTML=squad[24][6];
+r=document.getElementById("eco");
+r.innerHTML=squad[24][9];
